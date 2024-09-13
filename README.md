@@ -16,13 +16,14 @@
 </div>
 
 <div align="left">
+    <img src="https://skillicons.dev/icons?i=js,py,cpp,css,react,mysql,mongodb,postgres"/>
     <details>
-        <summary><img src="https://skillicons.dev/icons?i=js,py,cpp,css,react,mysql,mongodb,postgres"/>
-</summary>
+      <summary></summary>
         JavaScript | Python | C++ | CSS | React | MySQL | MongoDB | PostgreSQL
 </details>
+  <img src="https://skillicons.dev/icons?i=express,electron,threejs,figma,blender" />
   <details>
-    <summary><img src="https://skillicons.dev/icons?i=express,electron,threejs,figma,blender" /></summary>
+    <summary></summary>
     Express.js | Electron | Three.js | | Figma | Blender
 </details>
 </div>
