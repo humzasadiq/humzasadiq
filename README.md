@@ -40,4 +40,5 @@
 <h2 align="left">Contacts</h2>
 
 [<img src="https://skillicons.dev/icons?i=gmail"/>](mailto:humzasadiq52@gmail.com)
-[<img src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/hamza-sadiq-887241240/)
+[<img src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/hamza-sadiq-887241240/)</br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/698245356583911556)](https://discord.com/users/698245356583911556)
