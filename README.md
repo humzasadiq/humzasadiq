@@ -59,10 +59,10 @@
     Express.js | Electron | Three.js | | Figma | Blender
 </details>
 </div>
-<br>
+<!-- <br>
 <div align=left>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzasadiq&hide=HTML&border_color=3D444D&layout=compact&theme=transparent&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+</div> -->
 <br/>
 <h2 align="left">Contacts</h2>
 
